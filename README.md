@@ -12,3 +12,6 @@ You can now run the following in the `sketch` folder.
 `python3 -m http.server`
 
 This should run a server that shows the hyperbolic tiling.
+
+## Demo
+You can see an example on [this page](https://editor.p5js.org/jackson.weidmann/sketches/4xdFahsnT) with the group (2,4,5). If there is no image visible hit the play button.
